@@ -1,0 +1,46 @@
+.heading{
+    color:red;
+}
+h2{
+    color: green;
+}
+h1 {
+    color: red;
+}
+.height{
+    line-height:30px ;
+}
+.forth_line{
+    text-decoration: underline;
+}
+.line-spacing {
+    letter-spacing:2px;
+    color: brown;
+    line-height: 25px;
+}
+.description {
+    color: brown;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.description1 {
+    color: brown;
+    font-size: smaller;
+}
+.description2{
+    color: brown;
+    font-size: larger;
+}
+.line1{
+    text-decoration:line-through;
+}
+.line2{
+    background-color: yellow;
+}
+.line3{
+    background-color: yellow;
+}
+.line4{
+    color: brown;
+    background-color: yellow;
+}
